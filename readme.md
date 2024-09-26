@@ -2,7 +2,7 @@
 
 - ### Data preparation:
 
-  In our code, we use the SAM model to pre-generate edge images to participate in the training of the model. You can refer to our code  [makeSAMmap.py](makeSAMmap.py)  to pre-generate edge images according to your own dataset.
+  In our code, we use the SAM model to pre-generate edge images to participate in the training of the model. You can refer to our code  [makeSAMmap.py](makeSAMmap.py)  to pre-generate edge images according to your own dataset. Please download the SAM pre-training model and place it in the corresponding folder.
 
 - ### Train:
 
