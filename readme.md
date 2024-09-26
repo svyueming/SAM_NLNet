@@ -15,10 +15,7 @@
   
 
 We provide pre-trained models and test data at 0.2 sampling rate under pseudo-radial sampling. The download link is:
-
- https://pan.baidu.com/s/1DSZMWRhHEe3skV-guwaoQA     
-
-code：pw68
+https://pan.baidu.com/s/1DSZMWRhHEe3skV-guwaoQA  code：pw68
 
 
 
