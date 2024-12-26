@@ -1,1 +1,0 @@
-Please download the SAM pre-training model and place it in this folder.
